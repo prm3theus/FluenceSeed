@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="700" height="500" src="FluenceSeed.pnd">
+</p>
+
 # FluenceSeed
 
 A minimal fluence seed implementation as a CRU-based p2p aqua project that uses BuffleDB as a wrapper to a hyper-based db
