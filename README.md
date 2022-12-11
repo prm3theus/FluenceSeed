@@ -7,7 +7,7 @@ A minimal fluence seed implementation as a CRU-based p2p project that uses Buffl
 2. Get `PEER_ID` from output
 3. Fling particles `PEER_ID=<peer_id> npx ts-node poster.ts`
 
-## BuffleDB, a promiss-able hypertrie wrapper
+## BuffleDB, a promise-able hypertrie wrapper
 
 Run the tests via the `npx ts-node atlas.js`
 
