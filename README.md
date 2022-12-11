@@ -15,7 +15,7 @@ Run the tests via the `npx ts-node atlas.js`
 const hypertrie = require('hypertrie')
 import Buffle from './Buffle'
 
-// Timely chron to post to IPFS and email to hummingfox9@proton.me
+// Timely chron to post to IPFS and email to vncntvango@gmail.com
 const db = hypertrie('./trie.db', {valueEncoding: 'json'})
 
 async function main() {
