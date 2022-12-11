@@ -1,6 +1,6 @@
 # FluenceSeed
 
-A minimal fluence seed implementation as a CRU-based p2p project that uses BuffleDB as a wrapper to a hyper-based db
+A minimal fluence seed implementation as a CRU-based p2p aqua project that uses BuffleDB as a wrapper to a hyper-based db
 
 # How to use with fluence
 1. First run `npx ts-node poster.ts`
