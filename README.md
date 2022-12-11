@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="500" src="FluenceSeed.pnd">
+  <img width="700" height="500" src="FluenceSeed.png">
 </p>
 
 # FluenceSeed
